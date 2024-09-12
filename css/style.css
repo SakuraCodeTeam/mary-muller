@@ -35,7 +35,7 @@ a:hover, a:focus {
 
 body {
     font-family: "Poppins", sans-serif;
-    background-color: white;
+    background-color: #F8FFFD;
 }
 
 .destaque {
@@ -122,7 +122,7 @@ header nav {
 main .container {
     display: flex;
     justify-content: space-between;
-    min-height: 85vh;
+    min-height: 90vh;
     padding: 0;
     margin: 0;
 }

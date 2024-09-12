@@ -49,7 +49,7 @@
         flex-direction: column;
         align-items: center;
         padding: 0 10px;
-        min-height: 85vh;
+        min-height: 90vh;
     }
 
     main .container > *:not(.main-img) {
@@ -490,22 +490,7 @@
 /*css responsivo desktop padrão*/
 @media (width >= 1200px){
     .metodos-box .box {
-        width: 590px; 
-        height: 300px;
-    }
-}
-
-@media (width >= 1400px){
-    .metodos-box .box {
-        width: 623px; 
-        height: 300px;
-    }
-}
-
-/*css responsivo desktop garnde*/
-@media (width >=  1500px){
-    .metodos-box .box {
-        width: 665px; 
+        width: 568px; 
         height: 300px;
     }
 }
